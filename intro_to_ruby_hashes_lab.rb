@@ -50,6 +50,7 @@ monopoly = {
         {
   "mortgage_value" => "$100"
         },
+  :pennsylvania_railroad => {}
       }
     }
   }
